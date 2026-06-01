@@ -6,9 +6,10 @@
 .DS_Store
 .quarto
 
-# Exclude the following directories 
+# Exclude the following directories
 /data/
 /output/
+/text_examples/
 
 # Exclude data file types
 *.xls
